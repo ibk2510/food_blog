@@ -1,4 +1,4 @@
-# food_blog
+# Food Blog
 
 after downloading the file , open the folder directory in code editor
 
